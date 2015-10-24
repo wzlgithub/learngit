@@ -1,3 +1,4 @@
 git is a distribute version control system 
 git is free software distributed under the GPL
-git has a mutable indes called stage 
+git has a mutable indes called stage
+git tracks changed
